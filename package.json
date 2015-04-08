@@ -1,0 +1,27 @@
+{
+  "name": "cors-unblocker",
+  "version": "1.0.0",
+  "description": "A simple free proxy to bypass CORS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.5.3",
+    "express": "~4.9.x",
+    "request": "^2.55.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lezed1/cors-unblocker"
+  },
+  "keywords": [
+    "node",
+    "CORS",
+    "proxy"
+  ],
+  "license": "GPLv3"
+}

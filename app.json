@@ -1,0 +1,6 @@
+{
+  "name": "Cors Unblocker",
+  "description": "A simple free proxy to bypass CORS",
+  "repository": "https://github.com/lezed1/cors-unblocker",
+  "keywords": ["node", "CORS", "proxy"]
+}
